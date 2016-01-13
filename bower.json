@@ -1,0 +1,29 @@
+{
+  "name": "angular-pdf-make",
+  "description": "A pdf utitlity based off of the pdfMake project to enable viewing, downloading, and printing of PDF files in the browser of AngularJS based projects",
+  "main": "./dist/angular-pdf-make.js",
+  "authors": [
+    "tuckerjt07@gmail.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Angular",
+    "AngularJS",
+    "PDF",
+    "pdfMake",
+    "angular-pdf",
+    "angular-pdf-make"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.4.8"
+  }
+}
