@@ -12,7 +12,7 @@ angular.module('angularPdfMakeApp')
                 content: '=',
                 styles: '='
             },
-            templateUrl: '/client/app/angularPdfMake/angularPdfMake.html',
+            templateUrl: './angularPdfMake.html',
             link: function (scope, element, attrs) {
                 var callback;
                 callback = function (dataUrl) {
