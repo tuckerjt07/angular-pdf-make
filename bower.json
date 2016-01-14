@@ -23,7 +23,8 @@
     "test",
     "tests"
   ],
-  "devDependencies": {
-    "angular": "~1.4.8"
+  "dependencies": {
+    "angular": "~1.4.8",
+      "pdfmake": "https://github.com/tuckerjt07/pdfmake.git#master"
   }
 }
